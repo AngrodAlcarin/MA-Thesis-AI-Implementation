@@ -1,0 +1,2 @@
+This repository contains all the files, data, plots, images, figures, tables and R code used in the writing and coding process of my Master Thesis with the Title "AI Implementation in the Workplace as a Socio-Technical Question:
+A Case Study on how to Introduce Trustworthy AI as a Tool to Help Employees in their Day-to-Day Work", handed in on the 10.12.2025 at the University of Lucerne to attain a Master's Degree in Computational Social Sciences. 
