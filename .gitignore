@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.quarto/
+.git
+Quarto/
+citations 4.12.25.docx
+thesis.qmd
+thesis.pdf
+thesis_citations_inserted.qmd
+thesis_full_with_citations.qmd
+Master Thesis MEI Entwurf Version 2.docx
+_quarto.yml
+apa.csl
+sources.bib
